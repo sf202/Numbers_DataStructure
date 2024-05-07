@@ -1,4 +1,4 @@
-Description of program:
+# Description of program:
 You are to write a program name numbers.java. You are to use arrays as your data structure.
 Here are some requirements for the program:
 1. The program must prompt the user to enter the amount of groups of numbers he/she wants to
